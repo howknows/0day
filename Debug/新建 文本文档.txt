@@ -1,0 +1,14 @@
+jmp esp address:  0X77d859f8
+
+exit:7C81CAA2
+base:7c800000
+offs:0001caa2
+
+
+B8A2CA817CFFD0
+
+
+sub esp,00000030
+jmp esp
+//83EC30FFE4
+
